@@ -1,6 +1,6 @@
 {
   "name": "await-error-handle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "cjs/index.js",
   "module": "esm/index.js",
@@ -10,6 +10,10 @@
   },
   "author": "Nick Heal",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickheal/await-error-handle.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
