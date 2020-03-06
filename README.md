@@ -6,7 +6,7 @@ await-error-handle is a package designed to simplify handling errors that come b
 
 ## Installation
 
-Add to your project using `npm i --save await-error-handle`
+Add to your project using `npm i -S await-error-handle`
 
 ## Usage
 

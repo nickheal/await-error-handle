@@ -1,7 +1,7 @@
 {
   "name": "await-error-handle",
-  "version": "1.0.2",
-  "description": "simplify handling async errors",
+  "version": "1.0.3",
+  "description": "Simplify handling async errors",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "scripts": {
