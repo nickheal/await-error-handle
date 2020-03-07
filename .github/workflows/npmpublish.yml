@@ -25,6 +25,6 @@ jobs:
       - run: npm run release
       - run: git push origin master
       - run: npm publish
-      - run: ./node_modules/.bin/codecov --token="${{secrets.CODECOV_TOKEN}}"
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+      - run: ./node_modules/.bin/codecov --token="${{secrets.CODECOV_TOKEN}}"
