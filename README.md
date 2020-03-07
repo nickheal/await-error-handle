@@ -1,3 +1,6 @@
+[![Codecov Coverage](https://img.shields.io/codecov/c/github/nickheal/await-error-handle/master.svg?style=flat)](https://codecov.io/gh/nickheal/await-error-handle/)
+![GitHub](https://img.shields.io/github/license/nickheal/await-error-handle)
+
 # await-error-handle
 
 ## Purpose
