@@ -4,7 +4,7 @@
 name: Node.js Package
 
 on:
-  pull_request:
+  push:
     branches:
       - master
 
@@ -12,7 +12,6 @@ jobs:
   publish-npm:
     runs-on: ubuntu-latest
     steps:
-        if: github.event.pull_request.merged == 'true'
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
