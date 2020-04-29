@@ -2,6 +2,7 @@
   "name": "await-error-handle",
   "version": "1.0.5",
   "description": "Simplify handling async errors",
+  "keywords": ["await", "error", "handle", "handling", "async", "go"],
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "scripts": {
