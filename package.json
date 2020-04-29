@@ -2,6 +2,14 @@
   "name": "await-error-handle",
   "version": "1.0.8",
   "description": "Simplify handling async errors",
+  "keywords": [
+    "await",
+    "error",
+    "handle",
+    "handling",
+    "async",
+    "go"
+  ],
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "scripts": {
@@ -21,19 +29,19 @@
     }
   },
   "devDependencies": {
-    "@babel/core": "^7.8.7",
-    "@babel/preset-env": "^7.8.7",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
-    "babel-jest": "^25.1.0",
+    "babel-jest": "^25.5.1",
     "codecov": "^3.6.5",
-    "eslint": "^6.1.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.20.1",
-    "husky": "^4.2.3",
-    "jest": "^25.1.0",
-    "rollup": "^2.0.0",
-    "rollup-plugin-babel": "^4.3.3",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "husky": "^4.2.5",
+    "jest": "^25.5.1",
+    "rollup": "^2.7.3",
+    "rollup-plugin-babel": "^4.4.0",
     "standard-version": "^7.1.0"
   }
 }
