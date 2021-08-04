@@ -1,4 +1,4 @@
-import errorHandle from '../../src/index';
+import errorHandle from '../../index';
 
 describe('errorHandle', () => {
   it('should return null and a result if the promise resolves', async () => {
