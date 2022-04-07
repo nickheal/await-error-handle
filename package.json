@@ -1,6 +1,6 @@
 {
   "name": "await-error-handle",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Simplify handling async errors",
   "keywords": [
     "await",
